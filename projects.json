@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Nomie Web Application",
+    "techStack": ["Next.js", "MongoDB", "JavaScript", "Vercel"],
+    "description": "Full-stack wellness tracking web app built with Next.js and MongoDB. Includes user authentication and dynamic dashboards.",
+    "link": "https://nomie-app.vercel.app",
+    "github": "https://github.com/Diegobest/NOMIE-main"
+  },
+  {
+    "title": "Pirel Document Management System",
+    "techStack": [".NET", "React", "Oracle", "Docker"],
+    "description": "Enterprise document workflow solution with scalable architecture, integrated via REST APIs.",
+    "link": null,
+    "github": null
+  },
+  {
+    "title": "Project GO – Integration Project",
+    "techStack": ["React", "Node.js", "MongoDB", "Express"],
+    "description": "React app with REST API built using Mongoose/MongoDB for real-time data sync.",
+    "link": null,
+    "github": null
+  },
+  {
+    "title": "Mindfulbar Website",
+    "techStack": ["WordPress", "HTML", "CSS", "UX"],
+    "description": "Sober-bar concept with full brand, WordPress site, and strong UI/UX foundation.",
+    "link": null,
+    "github": null
+  }
+]
