@@ -13,9 +13,16 @@
   "type": "module",
   "dependencies": {
     "cors": "^2.8.5",
-    "dotenv": "^16.5.0",
+    "dotenv": "^16.6.0",
     "express": "^5.1.0",
-    "openai": "^5.8.0"
-  }
-  
+    "openai": "^5.8.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diegobest/chatbot_test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Diegobest/chatbot_test/issues"
+  },
+  "homepage": "https://github.com/Diegobest/chatbot_test#readme"
 }
